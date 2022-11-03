@@ -26,11 +26,16 @@
         <input type="button" onclick="szamol()" value="ENTER">
     </form>
 
-    <p id="fo">Az eredmény: </p>
+
+    <p>Freki = </p>
+    <p id="fo"> </p>
+    <p> Hz</p>
 
     <script>
         let freki = 0;
         function szamol(){
+            let L = parseInt(induk.value) / 1000000;
+            let C = parseInt(capac.value) / 1000000;
             freki = 1 / (2 * Math.PI * Math.sqrt(parseInt(induk.value) * parseInt(capac.value)));
             document.getElementById('fo').innerHTML = freki;
         }
