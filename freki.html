@@ -32,15 +32,15 @@
     <span> Hz</span>
 
     <script>
-        function szamol(){
+        function szamol() {
             let L = parseInt(induk.value) / 1000000;
             let C = parseInt(capac.value) / 1000000;
-            let freki = L *C;
+            let freki = L * C;
             freki = Math.sqrt(freki);
             freki = 2 * freki;
             freki = Math.PI * freki;
             freki = 1 / freki;
-            document.getElementById('fo').innerHTML = freki;
+            document.getElementById("fo").innerHTML = freki;
         }
     </script>
 
