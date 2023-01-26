@@ -309,3 +309,8 @@ h1{
   height: 400px;
   width: 400px;
 }
+.alkat2{
+  float: right;
+  width: 50%;
+  height: max-content;
+}
