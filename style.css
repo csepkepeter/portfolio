@@ -15,7 +15,8 @@ body{
   width: 100%;
   overflow-x: hidden;
   text-align: justify;
-  margin: auto;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .section-center{
   position: absolute;
