@@ -1,9 +1,9 @@
 # Skori - Vezeték Nélküli LED meghajtó - építése / mérése
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hobbielektronika.hu%2Fforum%2Fvezetek-nelkuli-gyertya&psig=AOvVaw3F0YvbXfT-Nx0EkbmWHgSC&ust=1676628621767000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDM573mmf0CFQAAAAAdAAAAABAW">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hobbielektronika.hu%2Fforum%2Fvezetek-nelkuli-gyertya&psig=AOvVaw3F0YvbXfT-Nx0EkbmWHgSC&ust=1676628621767000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDM573mmf0CFQAAAAAdAAAAABAW">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hobbielektronika.hu%2Fforum%2Fvezetek-nelkuli-gyertya&psig=AOvVaw3F0YvbXfT-Nx0EkbmWHgSC&ust=1676628621767000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDM573mmf0CFQAAAAAdAAAAABAW">
+  <source media="(prefers-color-scheme: dark)" srcset="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
 </picture>
 
 ## Az általam választott alkatrész értékek
