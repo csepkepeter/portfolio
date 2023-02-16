@@ -1,9 +1,9 @@
 # Skori - Vezeték Nélküli LED meghajtó - építése / mérése
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://skory.gylcomp.hu/kapcs/energiairanyjelzo_sch.png">
-  <source media="(prefers-color-scheme: light)" srcset="http://skory.gylcomp.hu/kapcs/energiairanyjelzo_sch.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://skory.gylcomp.hu/kapcs/energiairanyjelzo_sch.png">
+  <source media="(prefers-color-scheme: dark)" srcset="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
 </picture>
 
 ## Az általam választott alkatrész értékek
